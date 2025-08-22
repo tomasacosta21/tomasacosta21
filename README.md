@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👨‍💻 About me:
 Software developer and Electromechanical Technician, passionate about Artificial Intelligence, IoT, and software engineering. Skilled in Java (SpringBoot), relational databases, and SQL modeling, applying best practices and agile methodologies. I have contributed to innovative projects such as EchoLens, awarded at the Huawei ICT Innovation Competition, and I’m currently working on solutions combining AI, computer vision, and IoT. My focus is on creating technology with real impact, fostering continuous improvement, lifelong learning, and interdisciplinary collaboration.
 
 
